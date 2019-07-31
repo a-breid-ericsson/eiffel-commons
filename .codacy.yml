@@ -1,0 +1,10 @@
+exclude_paths:
+  - 'src/test/**'
+  - 'CONTRIBUTING.md'
+  - 'LICENSE'
+  - 'README.md'
+  - 'target/**'
+  - '.git/**'
+  - '.gitignore'
+  - '.settings/**'
+  - 'CODE_OF_CONDUCT.md'
